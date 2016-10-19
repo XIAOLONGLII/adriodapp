@@ -1,4 +1,4 @@
-/*content.xml*/
+content.xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -34,7 +34,7 @@
 
 </RelativeLayout>
 
-/*menu- main.xml*/
+menu- main.xml
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -47,7 +47,7 @@
 </menu>
 
 
-/*AndroindManifexr.xml*/
+AndroindManifexr.xml
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.xiaolongedwardli.birthday">
@@ -74,7 +74,7 @@
 
 
 
-/*activity_main.xml*/
+activity_main.xml
 
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
