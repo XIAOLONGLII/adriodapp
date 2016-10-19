@@ -34,7 +34,6 @@
 </android.support.design.widget.CoordinatorLayout>
 
 
--------------------------------------/**
  * Automatically generated file. DO NOT MODIFY
  */
 package com.example.xiaolongedwardli.birthday;
